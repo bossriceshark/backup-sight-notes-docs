@@ -1,0 +1,6 @@
+site_name: Backup Sight Field Notes
+site_description: Field notes on flip-up backup iron sights and red dot co-witness
+theme:
+  name: readthedocs
+nav:
+  - Field notes: index.md
