@@ -36,3 +36,7 @@ Check the current listings for exact specifications, heights and compatibility b
 - Assuming co-witness without checking mount heights.
 - Mounting the rear sight where it can't fold under or behind the optic.
 - Never zeroing the irons, then discovering they're off the first time they're needed.
+
+## Next step: compare the range
+
+Once you understand how backup sights work, the next question is which one to buy. You can <a href="https://www.amazon.com/stores/OzarkArmament/page/F4ECA59D-BCDD-42CC-A31F-BFEC5922609F">browse the whole range</a> of Ozark Armament's iron sights on Amazon, where folding and fixed models sit on the same page. Pick a set that fits your optic height.
