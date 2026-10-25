@@ -4,3 +4,4 @@ theme:
   name: readthedocs
 nav:
   - Field notes: index.md
+  - Offset backup iron sights: offset-backup-iron-sights.md
